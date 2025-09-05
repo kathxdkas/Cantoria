@@ -1,1 +1,1 @@
-# Cantoria.github.com.io
+Cantoria.github.io
